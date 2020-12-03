@@ -1,0 +1,26 @@
+body {
+    background-color: gray;
+    font-family: monospace;
+}
+
+.container1,
+.container2,
+.container3 {
+    width: 1800px;
+    padding: 20px;
+    border: 5px solid brown;
+    margin: 30px;
+    border-radius: 10px 20px 30px;
+    background-color: white;
+}
+
+.container1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+    margin-bottom: 15px;
+}
